@@ -13,6 +13,6 @@ namespace ToDo.Data
         {
 
         }
-        public DbSet<ToDo> ToDo { get; set; }
+        public DbSet<ToDoItem> ToDoItem { get; set; }
     }
 }
