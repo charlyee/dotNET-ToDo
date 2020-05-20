@@ -10,11 +10,11 @@ using ToDo.Models;
 
 namespace ToDo.Controllers
 {
-    public class ToDoItemsController : Controller
+    public class ToDoItemController : Controller
     {
         private readonly ToDoContext _context;
 
-        public ToDoItemsController(ToDoContext context)
+        public ToDoItemController(ToDoContext context)
         {
             _context = context;
         }
