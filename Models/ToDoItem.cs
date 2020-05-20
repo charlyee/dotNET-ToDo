@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ToDo.Models
 {
-    public class ToDo
+    public class ToDoItem
     {
         public int Id { get; set; }
         [Required(ErrorMessage = "Task Required")]
