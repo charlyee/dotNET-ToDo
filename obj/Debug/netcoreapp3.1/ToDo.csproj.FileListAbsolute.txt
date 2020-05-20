@@ -106,6 +106,4 @@ D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeA
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.csproj.CoreCompileInputs.cache
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\ToDo.MvcApplicationPartsAssemblyInfo.cache
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Index.cshtml.g.cs
