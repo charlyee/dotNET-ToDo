@@ -56,7 +56,7 @@ namespace ToDo
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=ToDoItem}/{action=Index}"
+                    pattern: "{controller=ToDoItem}/{action=Index}/{id?}"
                 );
             });
         }
