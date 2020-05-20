@@ -167,3 +167,4 @@ D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoIt
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Details.cshtml.g.cs
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Edit.cshtml.g.cs
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Index.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
