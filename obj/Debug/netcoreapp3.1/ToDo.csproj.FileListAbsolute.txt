@@ -106,7 +106,6 @@ D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeA
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDo\Index.cshtml.g.cs
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -163,8 +162,8 @@ D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\runtimes\win-arm\n
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Create.cshtml.g.cs
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Delete.cshtml.g.cs
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Details.cshtml.g.cs
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Edit.cshtml.g.cs
-D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItems\Index.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Create.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Delete.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Details.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Edit.cshtml.g.cs
+D:\UofA\DEMOS\VISUAL_STUDIO\ToDo\ToDo\obj\Debug\netcoreapp3.1\Razor\Views\ToDoItem\Index.cshtml.g.cs
